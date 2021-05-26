@@ -34,4 +34,4 @@ Style Creator: DrPleaseRespect or [u/drpleaserespect](https://www.reddit.com/use
 * Install the UserCSS Theme by clicking the Install Badge in the Download Section
 
 # Download
-[![Install directly with Stylus](\assets\custom_files\customimages\Stylusbutton.svg)](https://gist.githubusercontent.com/DrPleaseRespect/eb3c2e79b60f57be02fb77acbda38df2/raw/wikipedialogotomc.user.css)
+[![Install directly with Stylus](\assets\custom_files\customimages\Stylusbutton.svg)](https://raw.githubusercontent.com/DrPleaseRespect/User-CSS-Stuff/master/wikipedialogotomc.user.css)
