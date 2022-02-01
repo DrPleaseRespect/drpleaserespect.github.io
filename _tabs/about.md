@@ -5,4 +5,7 @@ order: 4
 ---
 
 
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
+This is the new place where DrPleaseRespect's Archive and Projects will be placed.
+The old one will be slowly phased out for this one. since this is easier to maintain
+
+The link for the old site: [OLD SITE](https://sites.google.com/view/drpleaserespectprojects/home)
