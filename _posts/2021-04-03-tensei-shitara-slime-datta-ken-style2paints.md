@@ -17,22 +17,22 @@ I used a tool called Style2Paints. It let's you color line arts using AI. I used
 # Preview
 ## Reference
 <p class="Image">
-<img src="\assets\custom_files\customimages\TenSura\1\Reference.png">
+<img src="\assets\custom_files\customimages\TenSura\Reference.png">
 </p>
 
 ## Original
 <p class="Image">
-<img src="\assets\custom_files\customimages\TenSura\1\Original.png">
+<img src="\assets\custom_files\customimages\TenSura\Original.png">
 </p>
 
 ## 1st Revision
 <p class="Image">
-<img src="\assets\custom_files\customimages\TenSura\1\1stRev.png">
+<img src="\assets\custom_files\customimages\TenSura\1stRev.png">
 </p>
 
 ## Final Revision
 <p class="Image">
-<img src="\assets\custom_files\customimages\TenSura\1\FinalRev.png">
+<img src="\assets\custom_files\customimages\TenSura\FinalRev.png">
 </p>
 
 

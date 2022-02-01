@@ -22,17 +22,17 @@ Kubo-san wa Boku (Mobu) wo Yurusanai - Chapter 23
 # Preview
 ## Original
 <p class="Image">
-<img src="\assets\custom_files\customimages\Kubosan\1\Original.jpg">
+<img src="\assets\custom_files\customimages\Kubosan\Original.jpg">
 </p>
 
 ## Reference
 <p class="Image">
-<img src="\assets\custom_files\customimages\Kubosan\1\Ref.jpg">
+<img src="\assets\custom_files\customimages\Kubosan\Ref.jpg">
 </p>
 
 ## Final Style2Paints Colored Image
 <p class="Image">
-<img src="\assets\custom_files\customimages\Kubosan\1\Final_Rev.png">
+<img src="\assets\custom_files\customimages\Kubosan\Final_Rev.png">
 </p>
 
 # Program Used
