@@ -21,7 +21,7 @@ Cross Compiled using WSL (UBUNTU)
 
 [Zopfli Download](https://drpleaserespect.github.io/drpleaserespect-webassets/compiled_binaries/google/zopfli.exe)
 
-[Virustotal Results](https://www.virustotal.com/gui/url/60dc815c112b9a3b0d5ed5bda35c971b4f7532554357da7f88582655e89db0fc)
+[Virustotal Results](https://www.virustotal.com/gui/file/aaba8a9078d8565d29a944c62b24a3790db8d84444cc06e6903d06361a1db62b/detection)
 
 # ZopfliPNG
 ZopfliPNG is a command line program to optimize the Portable Network Graphics
@@ -44,4 +44,4 @@ Cross Compiled using WSL (UBUNTU)
 
 [ZopfliPNG Download](https://drpleaserespect.github.io/drpleaserespect-webassets/compiled_binaries/google/zopflipng.exe)
 
-[Virustotal Results](https://www.virustotal.com/gui/url/f7e1a2d1bbac5e27f52717a8ddd0a1a4a2b97bece6ecef3eb638d31ea39a6ff5?nocache=1)
+[Virustotal Results](https://www.virustotal.com/gui/file/99794275d0cd99f5eaf6e91ce7425407341aadf917f658d55c0f36e913696460/detection)
